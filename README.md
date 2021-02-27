@@ -11,7 +11,6 @@ Thus, it is possible to use Machine Learning algorithms to detect the disease fr
 
 <h4> Sample output of the test images<h4> <br> 
 ![sample_chest](https://user-images.githubusercontent.com/54431128/109398652-5be18c80-7968-11eb-89ac-452973fc0f8b.png)
-![sample_ct](https://user-images.githubusercontent.com/54431128/109398730-c1ce1400-7968-11eb-8244-cfb80b9139e6.png)
 
 
 
