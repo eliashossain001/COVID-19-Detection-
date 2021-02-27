@@ -20,6 +20,10 @@ Thus, it is possible to use Machine Learning algorithms to detect the disease fr
 ![incep](https://user-images.githubusercontent.com/54431128/109398819-5769a380-7969-11eb-95eb-bfdfda19bc8b.png)
 ![vgg](https://user-images.githubusercontent.com/54431128/109398820-5769a380-7969-11eb-8dfa-24c341fe98d4.png)
 
+<h4> Confusion Matrix for Chest X-rays: VGG, InceptionV3, ResNet50, Xception </h4>
 
-
+![cnf4](https://user-images.githubusercontent.com/54431128/109398897-b9c2a400-7969-11eb-9d8d-9c42aae4fc8f.png)
+![cnf3](https://user-images.githubusercontent.com/54431128/109398900-baf3d100-7969-11eb-9e9e-040a04851fb9.png)
+![cnf2](https://user-images.githubusercontent.com/54431128/109398901-bb8c6780-7969-11eb-96ae-28f5239a87d5.png)
+![cnf1](https://user-images.githubusercontent.com/54431128/109398902-bc24fe00-7969-11eb-9f4c-2de48911cf4d.png)
 
