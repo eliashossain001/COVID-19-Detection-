@@ -35,8 +35,10 @@ Thus, it is possible to use Machine Learning algorithms to detect the disease fr
 ![ct1](https://user-images.githubusercontent.com/54431128/109398958-0c03c500-796a-11eb-8aad-045742532fdf.png)
 
 <h4> Confusion Matrix for CT Scans: VGG, InceptionV3, ResNet50, Xception </h4>
-![ctcon4](https://user-images.githubusercontent.com/54431128/109399017-61d86d00-796a-11eb-9043-2163bedc8f3e.png)
-![ctcon3](https://user-images.githubusercontent.com/54431128/109399019-63099a00-796a-11eb-927c-fd098eaf91f6.png)
-![ctcon2](https://user-images.githubusercontent.com/54431128/109399020-63a23080-796a-11eb-8dd7-f3ac9b0b372f.png)
-![ctcon1](https://user-images.githubusercontent.com/54431128/109399022-64d35d80-796a-11eb-95a0-1a0860f7eaed.png)
+
+![ctcon4](https://user-images.githubusercontent.com/54431128/109399052-951afc00-796a-11eb-9f35-3db75d416343.png)
+![ctcon3](https://user-images.githubusercontent.com/54431128/109399054-977d5600-796a-11eb-93b3-722b4f9135a7.png)
+![ctcon2](https://user-images.githubusercontent.com/54431128/109399056-9815ec80-796a-11eb-866c-9946b8087e70.png)
+![ctcon1](https://user-images.githubusercontent.com/54431128/109399057-98ae8300-796a-11eb-931b-e49e6f461fc0.png)
+
 
