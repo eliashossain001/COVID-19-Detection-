@@ -13,5 +13,13 @@ Thus, it is possible to use Machine Learning algorithms to detect the disease fr
 ![sample_chest](https://user-images.githubusercontent.com/54431128/109398762-0063ce80-7969-11eb-866e-6661238da7f2.png)
 
 
+<h4> Classification Reports for Chest X-rays: VGG, InceptionV3, ResNet50, Xception </h4>
+
+![xcep](https://user-images.githubusercontent.com/54431128/109398816-559fe000-7969-11eb-896a-f60ee54fd899.png)
+![resn](https://user-images.githubusercontent.com/54431128/109398818-56d10d00-7969-11eb-81ab-fdf3dd23dfd9.png)
+![incep](https://user-images.githubusercontent.com/54431128/109398819-5769a380-7969-11eb-95eb-bfdfda19bc8b.png)
+![vgg](https://user-images.githubusercontent.com/54431128/109398820-5769a380-7969-11eb-8dfa-24c341fe98d4.png)
+
+
 
 
