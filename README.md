@@ -27,3 +27,9 @@ Thus, it is possible to use Machine Learning algorithms to detect the disease fr
 ![cnf2](https://user-images.githubusercontent.com/54431128/109398901-bb8c6780-7969-11eb-96ae-28f5239a87d5.png)
 ![cnf1](https://user-images.githubusercontent.com/54431128/109398902-bc24fe00-7969-11eb-9f4c-2de48911cf4d.png)
 
+<h4> Classification Reports for CT Scans: VGG, InceptionV3, ResNet50, Xception </h4>
+
+![ct4](https://user-images.githubusercontent.com/54431128/109398954-0ad29800-796a-11eb-833c-2ffbaef328b1.png)
+![ct3](https://user-images.githubusercontent.com/54431128/109398955-0b6b2e80-796a-11eb-9692-e68e49159a92.png)
+![ct2](https://user-images.githubusercontent.com/54431128/109398957-0c03c500-796a-11eb-98dc-b74eb9a92c05.png)
+![ct1](https://user-images.githubusercontent.com/54431128/109398958-0c03c500-796a-11eb-8aad-045742532fdf.png)
